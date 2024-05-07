@@ -1,5 +1,5 @@
-# EXP No.6                                                                                 
-# Date:23/04/2024
+# EX No: 06                                                                                 
+# Date : 23-04-2024
 # AIM: 
 To study and implement different types of joins.
 # THEORY:
@@ -195,4 +195,4 @@ LEFT JOIN orders o ON c.customer_id = o.customer_id;
 ![image](https://github.com/Mena-Rossini/DBMS_EX_06/assets/102855266/fd5a26ac-6aa2-4808-88ab-78d6350b5b95)
 
 # RESULT:
-Thus,we studied and implemented different types of joins.
+Thus, To study and implement different types of joins was implemented successfully.
